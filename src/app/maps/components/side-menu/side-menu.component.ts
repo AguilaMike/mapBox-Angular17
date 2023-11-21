@@ -20,5 +20,6 @@ export class SideMenuComponent {
     { link: '/maps/zoom-range', icon: 'bi bi-arrows-move', title: 'Zoom Range' },
     { link: '/maps/markers', icon: 'bi bi-geo-alt', title: 'Markers' },
     { link: '/maps/properties', icon: 'bi bi-houses', title: 'Houses' },
+    { link: '/alone', icon: 'bi bi-people', title: 'Alone' },
   ];
 }
